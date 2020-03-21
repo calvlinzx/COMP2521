@@ -1,0 +1,18 @@
+Input	Initial	Has	Number	AvgTime	AvgTime
+Size	Order	Dups	of runs	forusel	forsort
+5000	random	no	5	0.32sec	 0.004sec
+5000	sorted	no	5	0.26sec	 0.000sec
+5000	reverse	no	5	0.29sec	 0.000sec
+5000	random	yes	5	0.35sec	 0.000sec
+5000	sorted	yes	5	0.27sec	 0.000sec
+5000	reverse	yes	5	0.28sec	 0.000sec
+10000	random	no	5	1.2sec	 0.004sec
+10000	sorted	no	5	1.1sec	 0.000sec
+10000	reverse	no	5	0.89sec	 0.000sec
+10000	random	yes	5	1.2sec	 0.004sec
+10000	sorted	yes	5	0.92sec	 0.000sec
+10000	reverse	yes	5	0.92sec	 0.000sec
+
+
+/* The executing time for useIntList goes larger as the Input Size increases, while there seems no difference for sort.
+According to the data we"ve collected, it takes the most time for sorting random sequences, while the least for sorted sequences. The reason for this result is likely to be for the completely random sequences, the program runs more iterations to sort the sequence than any others.
