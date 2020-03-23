@@ -1,0 +1,40 @@
+#!/usr/bin/env zsh
+
+if [ ! -d tests ]
+then
+	echo "No tests/ directory here. Are you in the right directory?"
+	exit 1
+fi
+
+if [ -e Makefile ]
+then
+	echo "Compiling ... just in case you didn't ..."
+	make
+fi
+
+		 pattern=*.sh
+[ ! -z "$1" ] && pattern=$1*.sh
+
+setopt glob null_glob
+tests=(tests/$~pattern)
+
+echo "Running ${#tests} tests ..."
+
+ulimit -t 10
+for tt in ${tests}
+do
+	t=`basename $tt .sh`
+	sh "$tt" 2>&1 | head -1000 > tests/$t.out
+	if cmp -s tests/$t.exp tests/$t.out
+	then
+		echo Passed test $t
+	else
+		echo Failed test $t
+#		printf "%-35s%-35s\n\n" "Your Output" "Expected Output" > tests/$t.cmp
+#		pr -m -t -w 70 tests/$t.out tests/$t.exp >> tests/$t.cmp
+#		echo Check differences using \"cat tests/$t.cmp\"
+		echo Check differences using \"diff -u tests/$t.exp tests/$t.out\"
+
+	fi
+done
+

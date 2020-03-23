@@ -1,0 +1,289 @@
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:18:09 2013
+From: John Shepherd <jas@cse.unsw.edu.au>
+Content-Type: text/plain;
+	charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Date: Wed, 3 Apr 2013 12:18:09 +1100
+Subject: Simple Test Message #2
+X-Universally-Unique-Identifier: 987c680e-a3e8-481c-b38c-313bb0bfa1f4
+Bcc: John Shepherd <jas@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+Message-Id: <689BC903-99B9-49CB-8B1D-CE72ECF7F5D2@cse.unsw.edu.au>
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Status: RO
+X-Keywords: $NotJunk NotJunk                    
+Content-Length: 62
+X-IMAPbase: 1364952290 0000000012 $NotJunk NotJunk
+X-UID: 2
+
+This is a simple message which will have no replies =85 jas
+
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:17:20 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #1
+X-Universally-Unique-Identifier: d7b77668-c7d1-49df-975f-7dc90446691b
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <87187754-DF06-40B2-864B-922386884A60@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:17:20 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <72D50659-15BA-499A-8E75-A5BC629FCC64@cse.unsw.edu.au>
+References: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au> <87187754-DF06-40B2-864B-922386884A60@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 3
+Status: RO
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 287
+
+On 03/04/2013, at 12:15 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> On 03/04/2013, at 11:58 AM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+>> A simple email message.
+>=20
+> This is a reply to the simple email message =85 jas
+
+A reply to the first reply to the simple message.
+
+jas=
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:16:32 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #1
+X-Universally-Unique-Identifier: 87e817f6-9fab-4afa-b66e-7d014eaf4aaf
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:16:32 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <9170F447-B1D1-445F-A034-B87C5C83AC5F@cse.unsw.edu.au>
+References: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 4
+Status: RO
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 158
+
+
+On 03/04/2013, at 11:58 AM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> A simple email message.
+
+
+Another direct reply to the simple email message =85 jas
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:15:43 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #1
+X-Universally-Unique-Identifier: 957d4312-d2fc-4df3-9780-a0b5dc241848
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:15:43 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <87187754-DF06-40B2-864B-922386884A60@cse.unsw.edu.au>
+References: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+Status: RO
+X-Status: A
+X-Keywords: $NotJunk NotJunk                                                             
+Content-Length: 151
+X-UID: 5
+
+On 03/04/2013, at 11:58 AM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> A simple email message.
+
+This is a reply to the simple email message =85 jas=
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 11:58:30 2013
+From: John Shepherd <jas@cse.unsw.edu.au>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Date: Wed, 3 Apr 2013 11:58:30 +1100
+Subject: Simple Test Message #1
+X-Universally-Unique-Identifier: 9a64685f-86be-4833-82e4-e08fdbe09e09
+Bcc: John Shepherd <jas@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+Message-Id: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Status: RO
+X-Status: A
+X-Keywords: $NotJunk NotJunk                                                              
+Content-Length: 31
+X-UID: 6
+
+A simple email message.
+
+jas
+
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:24:10 2013
+From: John Shepherd <jas@cse.unsw.edu.au>
+Content-Type: text/plain;
+	charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Date: Wed, 3 Apr 2013 12:24:10 +1100
+Subject: Simple Test Message #3
+X-Universally-Unique-Identifier: 95018222-d8a4-423d-a1bf-64becaf49701
+Bcc: John Shepherd <jas@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+Message-Id: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+X-UID: 7
+Status: RO
+X-Status: A
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 156
+
+Another simple message =85 which will have some replies
+----------
+Dr John Shepherd, Senior Lecturer, School of Computer Science and =
+Engineering, UNSW
+
+
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:26:08 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #3
+X-Universally-Unique-Identifier: 95018222-d8a4-423d-a1bf-64becaf49701
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:26:08 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <CDFD96FA-BA8F-400A-B1A5-14CCB3DC251E@cse.unsw.edu.au>
+References: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 8
+Status: RO
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 159
+
+On 03/04/2013, at 12:24 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> Another simple message =85 which will have some replies
+
+First direct reply =85 jas
+
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:26:31 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #3
+X-Universally-Unique-Identifier: 95018222-d8a4-423d-a1bf-64becaf49701
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:26:31 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <8E1BA7AE-1DE8-47B3-BA92-1549344A5F72@cse.unsw.edu.au>
+References: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 9
+Status: RO
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 160
+
+
+On 03/04/2013, at 12:24 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> Another simple message =85 which will have some replies
+
+Second direct reply =85 jas
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:27:00 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #3
+X-Universally-Unique-Identifier: 95018222-d8a4-423d-a1bf-64becaf49701
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:27:00 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <F33B5EF0-A4B8-40C4-963A-D239A8EC6833@cse.unsw.edu.au>
+References: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 10
+Status: RO
+X-Status: A
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 158
+
+On 03/04/2013, at 12:24 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> Another simple message =85 which will have some replies
+
+Third direct reply =85 jas
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:27:27 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #3
+X-Universally-Unique-Identifier: 95018222-d8a4-423d-a1bf-64becaf49701
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:27:27 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <04A03DC3-B520-43BA-A437-598B6E138598@cse.unsw.edu.au>
+References: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 11
+Status: RO
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 151
+
+On 03/04/2013, at 12:24 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> Another simple message =85 which will have some replies
+
+Fourth direct reply
+
+
+From jas@isaac.orchestra.cse.unsw.EDU.AU  Wed Apr 03 12:28:19 2013
+Content-Type: text/plain;
+	charset=windows-1252
+Mime-Version: 1.0 (Mac OS X Mail 6.3 \(1503\))
+Subject: Re: Simple Test Message #3
+X-Universally-Unique-Identifier: 95018222-d8a4-423d-a1bf-64becaf49701
+From: John Shepherd <jas@cse.unsw.edu.au>
+In-Reply-To: <F33B5EF0-A4B8-40C4-963A-D239A8EC6833@cse.unsw.edu.au>
+Date: Wed, 3 Apr 2013 12:28:19 +1100
+Content-Transfer-Encoding: quoted-printable
+X-Smtp-Server: smtp.cse.unsw.edu.au:jas
+Message-Id: <05BF03B6-4495-45ED-9EF7-0B82B78D7E1F@cse.unsw.edu.au>
+References: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au> <F33B5EF0-A4B8-40C4-963A-D239A8EC6833@cse.unsw.edu.au>
+To: John Shepherd <jas@cse.unsw.edu.au>
+X-UID: 12
+Status: RO
+X-Keywords: $NotJunk NotJunk                                                                      
+Content-Length: 283
+
+On 03/04/2013, at 12:27 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+> On 03/04/2013, at 12:24 PM, John Shepherd <jas@cse.unsw.edu.au> wrote:
+>> Another simple message =85 which will have some replies
+>=20
+> Third direct reply =85 jas
+
+First reply to third direct reply =85 jas
+
+
+
+

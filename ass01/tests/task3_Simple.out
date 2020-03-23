@@ -1,0 +1,77 @@
+/----------
+| M-ID: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+| Subj: Simple Test Message #1
+| From: John Shepherd <jas@cse.unsw.edu.au>
+| Date: Wed Apr  3 12:58:30 2013
+| Repl: (null)
+\----------
+   /----------
+   | M-ID: <87187754-DF06-40B2-864B-922386884A60@cse.unsw.edu.au>
+   | Subj: Re: Simple Test Message #1
+   | From: John Shepherd <jas@cse.unsw.edu.au>
+   | Date: Wed Apr  3 13:15:43 2013
+   | Repl: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+   \----------
+      /----------
+      | M-ID: <72D50659-15BA-499A-8E75-A5BC629FCC64@cse.unsw.edu.au>
+      | Subj: Re: Simple Test Message #1
+      | From: John Shepherd <jas@cse.unsw.edu.au>
+      | Date: Wed Apr  3 13:17:20 2013
+      | Repl: <87187754-DF06-40B2-864B-922386884A60@cse.unsw.edu.au>
+      \----------
+   /----------
+   | M-ID: <9170F447-B1D1-445F-A034-B87C5C83AC5F@cse.unsw.edu.au>
+   | Subj: Re: Simple Test Message #1
+   | From: John Shepherd <jas@cse.unsw.edu.au>
+   | Date: Wed Apr  3 13:16:32 2013
+   | Repl: <F0CFDD4A-78C0-47C0-A4F4-45CD9B1CAADD@cse.unsw.edu.au>
+   \----------
+/----------
+| M-ID: <689BC903-99B9-49CB-8B1D-CE72ECF7F5D2@cse.unsw.edu.au>
+| Subj: Simple Test Message #2
+| From: John Shepherd <jas@cse.unsw.edu.au>
+| Date: Wed Apr  3 13:18:09 2013
+| Repl: (null)
+\----------
+/----------
+| M-ID: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+| Subj: Simple Test Message #3
+| From: John Shepherd <jas@cse.unsw.edu.au>
+| Date: Wed Apr  3 13:24:10 2013
+| Repl: (null)
+\----------
+   /----------
+   | M-ID: <CDFD96FA-BA8F-400A-B1A5-14CCB3DC251E@cse.unsw.edu.au>
+   | Subj: Re: Simple Test Message #3
+   | From: John Shepherd <jas@cse.unsw.edu.au>
+   | Date: Wed Apr  3 13:26:08 2013
+   | Repl: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+   \----------
+   /----------
+   | M-ID: <8E1BA7AE-1DE8-47B3-BA92-1549344A5F72@cse.unsw.edu.au>
+   | Subj: Re: Simple Test Message #3
+   | From: John Shepherd <jas@cse.unsw.edu.au>
+   | Date: Wed Apr  3 13:26:31 2013
+   | Repl: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+   \----------
+   /----------
+   | M-ID: <F33B5EF0-A4B8-40C4-963A-D239A8EC6833@cse.unsw.edu.au>
+   | Subj: Re: Simple Test Message #3
+   | From: John Shepherd <jas@cse.unsw.edu.au>
+   | Date: Wed Apr  3 13:27:00 2013
+   | Repl: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+   \----------
+      /----------
+      | M-ID: <05BF03B6-4495-45ED-9EF7-0B82B78D7E1F@cse.unsw.edu.au>
+      | Subj: Re: Simple Test Message #3
+      | From: John Shepherd <jas@cse.unsw.edu.au>
+      | Date: Wed Apr  3 13:28:19 2013
+      | Repl: <F33B5EF0-A4B8-40C4-963A-D239A8EC6833@cse.unsw.edu.au>
+      \----------
+   /----------
+   | M-ID: <04A03DC3-B520-43BA-A437-598B6E138598@cse.unsw.edu.au>
+   | Subj: Re: Simple Test Message #3
+   | From: John Shepherd <jas@cse.unsw.edu.au>
+   | Date: Wed Apr  3 13:27:27 2013
+   | Repl: <9F3DCBBF-0612-409F-BA0C-9FCE28A9C1C8@cse.unsw.edu.au>
+   \----------
